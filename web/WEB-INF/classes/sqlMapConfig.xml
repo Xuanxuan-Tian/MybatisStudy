@@ -22,4 +22,6 @@
         <!-- 路径用 斜线（/） 分割，而不是用 点(.) -->
         <mapper resource="yeepay/payplus/mapper/UserMapper.xml"></mapper>
     </mappers>
+
+
 </configuration>
